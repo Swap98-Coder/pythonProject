@@ -19,3 +19,6 @@ if age >= 21:
     print(f"Can go club -> {age}")
 else:
     print(f"Cant go with this age -> {age}")
+
+
+
